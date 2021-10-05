@@ -1,0 +1,32 @@
+body{
+    background-color: #eaeceb;
+}
+
+h1{
+    font-family: Arial, Helvetica, sans-serif;
+    color: #cb2042;
+    
+}
+p{
+    font-family: Arial, Helvetica, sans-serif;
+    color: gray;
+    margin-bottom: 25px;
+}
+h2{
+    font-family: Arial, Helvetica, sans-serif;
+}
+a{
+    background-color: #cb2042;
+    color: white;
+    text-decoration:none;
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 10px;
+}
+a:hover{
+    background-color:gray;
+}
+.grijs{
+    color: gray;
+
+}
+
